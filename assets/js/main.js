@@ -54,7 +54,7 @@ const sendEmail = (e) => {
     .then(
       () => {
         // Show sent message
-        contactMessage.textContent = "Message sent successfully ✅";
+        contactMessage.textContent = "Thank you so much for your mail. (^_^)";
 
         // Remove message after five seconds
         setInterval(() => {
@@ -66,7 +66,7 @@ const sendEmail = (e) => {
       },
       () => {
         // Show error message
-        contactMessage.textContent = "Message not sent (service error) ❌";
+        contactMessage.textContent = "May be some problem occur! Please, try again.";
       }
     );
 };
