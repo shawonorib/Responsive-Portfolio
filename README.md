@@ -1,5 +1,7 @@
 # Resposive Portfolio Website ShawonOrib
 
+"ShawonOrib is a responsive personal portfolio website built with HTML, CSS, and JavaScript. It features a sleek design to showcase projects, skills, and experience. With smooth animations, interactive elements, and optimized performance, ShawonOrib offers a professional and user-friendly experience across all devices, reflecting creativity and expertise."
+
 ## Responsive Portfolio Website ShawonOrib
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
