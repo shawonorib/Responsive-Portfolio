@@ -66,7 +66,7 @@ const sendEmail = (e) => {
       },
       () => {
         // Show error message
-        contactMessage.textContent = "May be some problem occur! Please, try again.";
+        contactMessage.textContent = "Please, try again. May be some problem occur!";
       }
     );
 };
