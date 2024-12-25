@@ -12,4 +12,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface
 
+### Portfolio Website Preview:
+
+Responsive Personal Portfolio Website Screen Short👇
 ![preview](https://github.com/shawonorib/Responsive-Portfolio/assets/87714238/b3db6e8d-bb51-4163-9740-d59eaf5e8aaa)
